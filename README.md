@@ -1,3 +1,5 @@
+## Generating Informative Conclusions for Argumentative Texts
+[Paper](https://aclanthology.org/2021.findings-acl.306/)
 ### Corpus
 The Webis-ConcluGen-2021 corpus can be found [here](https://zenodo.org/record/4818134).
 The dataset is also available via [Huggingface Datasets](https://huggingface.co/datasets/webis/conclugen). 
